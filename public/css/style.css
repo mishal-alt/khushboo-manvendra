@@ -1783,3 +1783,6 @@ body.finale-particles .finale-fallback{opacity:0}
 .venue-actions{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
 .card--family .family-home{line-height:1.7}
 .hero-names__n{white-space:nowrap}
+
+.portrait--joint{width:clamp(230px,70vw,320px);margin:0 auto 34px}
+.portrait--joint .portrait-img{object-position:center 20%}
