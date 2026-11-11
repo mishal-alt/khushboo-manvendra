@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zetron Tech//Wedding Invitation//EN
+BEGIN:VEVENT
+UID:khushboo-manvendra-phere-20261202@zetron
+DTSTAMP:20261111T090000Z
+DTSTART;TZID=Asia/Kolkata:20261202T190000
+DTEND;TZID=Asia/Kolkata:20261203T020000
+SUMMARY:Wedding of Dr. Khushboo & Dr. Manvendra
+LOCATION:City Pride Garden\, Pushkar Road\, Ajmer
+DESCRIPTION:Barat Welcome 7:00 PM · Phere at midnight.
+END:VEVENT
+END:VCALENDAR
